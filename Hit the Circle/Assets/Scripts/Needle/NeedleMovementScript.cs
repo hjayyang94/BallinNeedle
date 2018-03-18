@@ -17,11 +17,12 @@ public class NeedleMovementScript : MonoBehaviour {
 	// Use this for initialization
 	void Awake () {
         Initalize();
-        FireNeedle();
-	}
+       
+    }
 	
 	// Update is called once per frame
 	void Update () {
+        
 		if (canShootNeedle)
         {
             myBody.velocity = new Vector2(0, speedY);
