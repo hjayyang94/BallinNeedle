@@ -284,6 +284,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Circle\CircleRotateScript.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Main Menu\MainMenuController.cs" />
     <Compile Include="Assets\Scripts\Needle\NeedleMovementScript.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

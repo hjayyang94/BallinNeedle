@@ -1,4 +1,7 @@
 sceneSetups:
-- path: Assets/Practice.unity
+- path: Assets/MainMenu.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/Practice.unity
+  isLoaded: 0
+  isActive: 0
